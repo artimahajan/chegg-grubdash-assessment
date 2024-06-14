@@ -12,16 +12,16 @@ This application sets up an API and building out below routes.
 - update /orders/:orderId: Modify order having id that matches orderId
 - delete /orders/:orderId: Deletes order having id that matches orderId
 
-## Run apploication locally
+## Run application locally
 - Clone the repository
-- Open teminal and chande directory to project folder
+- Open teminal and change directory to project folder
 - run command `npm i` to install dependencies
 - run command `npm run dev`
 - In postman fetch dishes details call `GET` Api at `http://localhost:5000/dishes` endpoint
 
 ## Run tests locally
 - Clone the repository
-- Open teminal and chande directory to project folder
+- Open teminal and change directory to project folder
 - run command `npm i` to install dependencies
 - run command `npm test`
 
